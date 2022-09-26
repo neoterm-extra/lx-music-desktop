@@ -106,7 +106,7 @@ npm run pack:linux
 
 ### UI界面
 
-<p><a href="https://github.com/lyswhut/lx-music-desktop"><img width="100%" src="https://github.com/lyswhut/lx-music-desktop/blob/master/doc/images/app.png" alt="lx-music UI"></a></p>
+<p><a href="https://github.com/lyswhut/lx-music-desktop"><img width="100%" src="https://github.91chi.fun/https://github.com/lyswhut/lx-music-desktop/blob/master/doc/images/app.png" alt="lx-music UI"></a></p>
 
 ### 常见问题
 
