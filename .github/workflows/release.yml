@@ -1,4 +1,4 @@
-name: Build
+name: Buildfix
 
 on:
   push:
